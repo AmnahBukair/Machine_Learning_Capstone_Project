@@ -28,5 +28,5 @@ This project is divided into three parts:
 For example: 'Now it is your turn' or 'you have to do ...'.   
 please ignore these phrases (;  
   
-2. I had an error with calculating accuracy index. They value copy itself each time i call the function.  
+2. I had an error with calculating accuracy index. The value copy itself each time i call the function.  
 I will appreciate if you suggest me some corrective steps!   
